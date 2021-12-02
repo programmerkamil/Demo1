@@ -1,0 +1,34 @@
+{
+	"artifacts": [
+		{
+			"port": 22,
+			"protocol": "TCP",
+			"asset_id": "0dd40266-2465-44b0-8fe7-54bc94031ff3",
+			"plugin_id": 70657,
+			"category": "jira",
+			"source": "onprem",
+			"external_id": "CS-45405",
+			"metadata": {
+				"icon": "baz",
+				"key": "CS",
+				"url": "https://jira.eng.tenable.com/browse/CS-45405",
+				"description": "This is a description"
+			}
+		},
+		{
+			"port": 0,
+			"protocol": "TCP",
+			"asset_id": "0dd40266-2465-44b0-8fe7-54bc94031ff3",
+			"plugin_id": 110723,
+			"category": "jira",
+			"source": "onprem",
+			"external_id": "IN-303",
+			"metadata": {
+				"icon": "baz",
+				"key": "ID",
+				"url": "https://jira.eng.tenable.com/browse/IN-303",
+				"description": "Lorem ipsum"
+			}
+		}
+	]
+}
