@@ -1,7 +1,7 @@
 {
 	"artifacts": [
 		{
-			"port": 22,
+			"port": 32,
 			"protocol": "TCP",
 			"asset_id": "0dd40266-2465-44b0-8fe7-54bc94031ff3",
 			"plugin_id": 70657,
